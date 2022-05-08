@@ -10,6 +10,7 @@ namespace fs = filesystem;
 
 int main() {
     string path = "F:\Test";
+    // string that has all the alphabet letters but the C
     string alphabet = "ABDEFGHIJKLMNOPQRSTUVWXYZ";
     cout << "..........................................................................\n"
             "--------------------------------------------------------------------------\n"
